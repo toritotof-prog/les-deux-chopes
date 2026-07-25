@@ -1,0 +1,39 @@
+menu petite faim
+-1 petite viande (lapin ou saumon)
+-1 soupe (choux ou pomme de terre)
+prix 4 septims
+
+menu petite faim et soif
+-1 petite viande (lapin ou saumon)
+-1 soupe (choux ou pomme de terre)
+-1 boisson (bière ou vin)
+
+menu soupeur
+-4 soupe (choux ou pomme de terre)
+prix 7 septims
+
+menu lapin
+-4 petites viandes (lapin ou saumon)
+prix 8 septims
+
+menu grande faim
+-2 petites viandes (lapin ou saumon)
+-1 soupe de choux et pomme de terre
+-1 boisson (bière ou vin)
+
+menu aventurier
+-1 tourte de horqueur
+-1 soupe de choux et pomme de terre
+-1 boisson 
+prix 20 septims
+
+menu somptueux
+-1 morceau d'eidar
+-1 soupe végétale
+-1 tourte de horqueur 
+-1 boisson (bière ou vin)
+prix 50 septims
+
+ration de voyage
+-1 petite viande (saumon ou lapin)
+prix 4 septims/ration
